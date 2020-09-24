@@ -1,7 +1,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![gif](https://media.giphy.com/media/LnoaK0tfqU0YowFvhB/giphy.gif)<br>
 ![Twitter Follow](https://img.shields.io/twitter/follow/errDeCapa8) <img src="https://komarev.com/ghpvc/?username=vvan31" alt="vvan31" />
-<h1 align="left">Hi 👋, I'm Viviana</h1>
+
 <h3 align="left">Software engineer from Mexico</h3>
 
 - How to reach me **v31.osorio@gmail.com**
