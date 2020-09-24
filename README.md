@@ -1,5 +1,5 @@
 
-![gif](https://media.giphy.com/media/LnoaK0tfqU0YowFvhB/giphy.gif)
+&nbsp;&nbsp;&nbsp;&nbsp; ![gif](https://media.giphy.com/media/LnoaK0tfqU0YowFvhB/giphy.gif)<br>
 ![Twitter Follow](https://img.shields.io/twitter/follow/errDeCapa8)
 <h1 align="center">Hi 👋, I'm Viviana</h1>
 <h3 align="center">Software engineer from Mexico</h3>
