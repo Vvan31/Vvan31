@@ -1,11 +1,11 @@
-![gif](https://media.giphy.com/media/LnoaK0tfqU0YowFvhB/giphy.gif)
+<h1 align="center>![gif](https://media.giphy.com/media/LnoaK0tfqU0YowFvhB/giphy.gif)</h1> 
 <h1 align="center">Hi 👋, I'm Vivian</h1>
 <h3 align="center">Software engineer from Mexico</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vvan31" alt="vvan31" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vvan31" alt="vvan31" ![Twitter Follow](https://img.shields.io/twitter/follow/errDeCapa8) /> </p>
 
 - 📫 How to reach me **v31.osorio@gmail.com**
-![Twitter Follow](https://img.shields.io/twitter/follow/errDeCapa8) <br>
+
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
 
 <p align="center">
