@@ -1,5 +1,5 @@
-<p align="center">
-![gif](https://media.giphy.com/media/LnoaK0tfqU0YowFvhB/giphy.gif) </p> 
+
+![gif](https://media.giphy.com/media/LnoaK0tfqU0YowFvhB/giphy.gif)
 <h1 align="center">Hi 👋, I'm Vivian</h1>
 <h3 align="center">Software engineer from Mexico</h3>
 
