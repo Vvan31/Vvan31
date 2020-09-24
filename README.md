@@ -16,4 +16,4 @@
 <br> 
  <!-- waka-box start -->
  <!-- waka-box end -->
-![Twitter Follow](https://img.shields.io/twitter/follow/errDeCapa8) 
+![Twitter Follow](https://img.shields.io/twitter/follow/errDeCapa8)
