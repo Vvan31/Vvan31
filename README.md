@@ -1,5 +1,6 @@
 ### Hi there 👋
-![gif](https://media.giphy.com/media/KphAp8ue9cjPnknCWB/giphy.gif)
+![gif](https://media.giphy.com/media/LnoaK0tfqU0YowFvhB/giphy.gif)
+
 ![Twitter Follow](https://img.shields.io/twitter/follow/errDeCapa8) 
 <!--
 **Vvan31/Vvan31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
