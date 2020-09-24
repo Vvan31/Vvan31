@@ -1,8 +1,9 @@
-<h1 align="center>![gif](https://media.giphy.com/media/LnoaK0tfqU0YowFvhB/giphy.gif)</h1> 
+<p align="center">
+![gif](https://media.giphy.com/media/LnoaK0tfqU0YowFvhB/giphy.gif) </p> 
 <h1 align="center">Hi 👋, I'm Vivian</h1>
 <h3 align="center">Software engineer from Mexico</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vvan31" alt="vvan31" ![Twitter Follow](https://img.shields.io/twitter/follow/errDeCapa8) /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vvan31" alt="vvan31" /> ![Twitter Follow](https://img.shields.io/twitter/follow/errDeCapa8)</p>
 
 - 📫 How to reach me **v31.osorio@gmail.com**
 
