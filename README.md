@@ -1,5 +1,5 @@
 
-&nbsp;&nbsp;![gif](https://media.giphy.com/media/LnoaK0tfqU0YowFvhB/giphy.gif)<br>
+![gif](https://media.giphy.com/media/LnoaK0tfqU0YowFvhB/giphy.gif)<br>
 ![Twitter Follow](https://img.shields.io/twitter/follow/errDeCapa8) <img src="https://komarev.com/ghpvc/?username=vvan31" alt="vvan31" />
 
 - How to reach me **v31.osorio@gmail.com**
