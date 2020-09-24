@@ -1,6 +1,7 @@
 
 ![gif](https://media.giphy.com/media/LnoaK0tfqU0YowFvhB/giphy.gif)
-<h1 align="center">Hi 👋, I'm Vivian</h1>
+![Twitter Follow](https://img.shields.io/twitter/follow/errDeCapa8)
+<h1 align="center">Hi 👋, I'm Viviana</h1>
 <h3 align="center">Software engineer from Mexico</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vvan31" alt="vvan31" /> </p>
@@ -16,4 +17,3 @@
 <br> 
  <!-- waka-box start -->
  <!-- waka-box end -->
-![Twitter Follow](https://img.shields.io/twitter/follow/errDeCapa8)
