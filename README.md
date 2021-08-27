@@ -1,6 +1,6 @@
 
 ![gif](https://media.giphy.com/media/LnoaK0tfqU0YowFvhB/giphy.gif)<br>
-![Twitter Follow](https://img.shields.io/twitter/follow/errDeCapa8) <img src="https://komarev.com/ghpvc/?username=vvan31" alt="vvan31" />
+
 
 - How to reach me **v31.osorio@gmail.com**
 
@@ -11,5 +11,6 @@
 <a href="https://instagram.com/vivian_a31" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="vivian_a31" height="30" width="30" /></a>
 </p>
 <br> 
+<img src="https://komarev.com/ghpvc/?username=vvan31" alt="vvan31" />
  <!-- waka-box start -->
  <!-- waka-box end -->
