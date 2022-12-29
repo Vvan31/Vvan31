@@ -10,7 +10,7 @@
 <br> 
 <img src="https://komarev.com/ghpvc/?username=vvan31" alt="vvan31" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vvan31&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vvan31&theme=onedark)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Vvan31&layout=compact&theme=cobalt&langs_count=10)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Vvan31&layout=compact&theme=onedark&langs_count=10)
 
