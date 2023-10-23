@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vivian</h1>
 <h3 align="center">A passionate full stack developer from Mexico</h3>
 
-- 🔭 I’m currently working on [ITcomplements]([http://apw.enterprises/](https://www.itcomplements.com/))
+- 🔭 I’m currently working in [ITcomplements](https://www.itcomplements.com/).
 
 - 🌱 I’m currently learning **NextJs, Typescript, Tailwind, Redux, GSAP**
 
