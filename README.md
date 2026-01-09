@@ -1,15 +1,4 @@
 <h1 align="center">Hi 👋, I'm Vivian</h1>
-<h3 align="center">A passionate full stack developer from Mexico</h3>
-
-- 🔭 I’m currently working in [ITcomplements](https://www.itcomplements.com/) as a Web developer
-
-- 🌱 I’m currently learning **NextJs, Typescript, Tailwind, Redux, GSAP**
-
-- 👯 I’m looking to collaborate on [House plants](https://github.com/Vvan31/HousePlants)
-
-- 👨‍💻 All of my projects are available at [https://vivianosorio.codes/](https://vivianosorio.codes/)
-
-- 📝 I regularly write articles on [https://vivianosorio.codes/](https://vivianosorio.codes/)
 
 - 📫 How to reach me **ovivian3105@gmail.com**
 
